@@ -1,0 +1,39 @@
+.nave:hover {
+    transform: scale(1.2);
+}
+
+.navbar {
+    border-radius: 6px;
+    box-shadow: 0 0 40px 0 rgb(255, 0, 119);
+    border-radius: 6px;
+}
+
+main h1 {
+    margin-top: 100px;
+}
+
+.contenedor {
+    
+    border: solid 2px rgb(235, 252, 0);
+    border-radius: 6px;
+    box-shadow: 0 0 30px 0 rgba(255, 0, 132, 0.975);
+    border-radius: 6px;
+}
+.imagen {
+    width: 360px;   
+}
+.icons {
+    border:solid 1px rgb(0, 0, 0);
+    margin-top: 200px;
+   
+   
+    border-radius: 6px;
+    box-shadow: 0 0 30px 0 rgba(255, 0, 132, 0.975);
+    border-radius: 6px;
+}
+.logo:hover {
+    transform: scale(1.2);
+}
+.logo {
+    color: rgb(255, 255, 255);
+}
